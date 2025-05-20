@@ -67,4 +67,4 @@ npm run dev
 ```
 
 ---
-Made with ❤️ using [Mocha](https://getmocha.com)
+Made By Ashish Paul
