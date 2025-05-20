@@ -30,7 +30,7 @@ A cutting-edge 3D portfolio application built with modern web technologies, offe
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/PortfoLi_3D.git
+git clone (https://github.com/Ashishpaul09/3D_Portfolio.git)
 
 # Navigate to project directory
 cd PortfoLi_3D
